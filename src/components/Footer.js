@@ -9,7 +9,7 @@ function Footer() {
     <footer>
       <div className="link">
         <a
-          href="https://github.com/covid19india"
+          href="https://github.com/hkjava6"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -21,7 +21,7 @@ function Footer() {
 
       <div className="links">
         <a
-          href="https://github.com/covid19india/covid19india-react"
+          href="https://github.com/hkjava6"
           className="github"
           target="_blank"
           rel="noopener noreferrer"
@@ -29,50 +29,50 @@ function Footer() {
           <GitHub />
         </a>
 
-        <a
-          className="api"
-          href="https://api.covid19india.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Database />
-        </a>
+//         <a
+//           className="api"
+//           href="https://api.covid19india.org"
+//           target="_blank"
+//           rel="noopener noreferrer"
+//         >
+//           <Database />
+//         </a>
 
-        <a
-          href="https://t.me/covid19indiaorg"
-          className="telegram"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Send />
-        </a>
+//         <a
+//           href="https://t.me/covid19indiaorg"
+//           className="telegram"
+//           target="_blank"
+//           rel="noopener noreferrer"
+//         >
+//           <Send />
+//         </a>
 
-        <a
-          href="https://twitter.com/covid19indiaorg"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="twitter"
-        >
-          <Twitter />
-        </a>
+//         <a
+//           href="https://twitter.com/covid19indiaorg"
+//           target="_blank"
+//           rel="noopener noreferrer"
+//           className="twitter"
+//         >
+//           <Twitter />
+//         </a>
 
-        <a
-          href="https://instagram.com/covid19indiaorg"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="instagram"
-        >
-          <Instagram />
-        </a>
+//         <a
+//           href="https://instagram.com/covid19indiaorg"
+//           target="_blank"
+//           rel="noopener noreferrer"
+//           className="instagram"
+//         >
+//           <Instagram />
+//         </a>
 
-        <a
-          href="mailto:hello@covid19india.org"
-          className="mail"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Mail />
-        </a>
+//         <a
+//           href="mailto:hello@covid19india.org"
+//           className="mail"
+//           target="_blank"
+//           rel="noopener noreferrer"
+//         >
+//           <Mail />
+//         </a>
       </div>
     </footer>
   );
